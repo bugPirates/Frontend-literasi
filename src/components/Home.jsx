@@ -19,19 +19,19 @@ export default class Home extends Component {
             <Image src="assets/hafis2.jpg" circle className="profile-pic"/>
             <h3>Hafis</h3>
             <h4>Ketua</h4>
-            <p>Tersenyumlah, Tuhanpun Jatuh Cinta</p>
+            <p>"Tersenyumlah, Tuhanpun Jatuh Cinta"</p>
           </Col>
           <Col xs={12} sm={4} className="person-wrapper">
             <Image src="assets/capet2.jpg" circle className="profile-pic"/>
             <h3>Ardi</h3>
             <h4>Sekretaris</h4>
-            <p>Sekali bendera berkibar hentikan ratapan dan tangisan</p>
+            <p>"Sekali bendera berkibar hentikan ratapan dan tangisan"</p>
           </Col>
           <Col xs={12} sm={4} className="person-wrapper">
             <Image src="assets/pia.jpg" circle className="profile-pic"/>
             <h3>Hulpia</h3>
             <h4>Pengelola</h4>
-            <p>That's a crooked tree. We'll send him to Washington. These little son of a guns hide in your brush and you just have to push them out.</p>
+            <p>"Aku akan menjadi Raja Bajak laut!"</p>
           </Col>
         </Row>
         {/* 
